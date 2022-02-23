@@ -1,0 +1,2 @@
+# Seatsayfa
+Seat sayfa kodlaması
